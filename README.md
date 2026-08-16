@@ -129,10 +129,10 @@ If the project is configured with the provided batch script, it can also be exec
 run.bat
 ```
 ## 📂 Preview
-<img src="home page.png" alt="Alternative Text" width="500">
-<img src="invoice.png" alt="Alternative Text" width="500">
-<img src="items.png" alt="Alternative Text" width="500">
-<img src="mainmenu.png" alt="Alternative Text" width="500">
+<img src="home page.png" alt="Alternative Text" width="300">
+<img src="invoice.png" alt="Alternative Text" width="300">
+<img src="items.png" alt="Alternative Text" width="300">
+<img src="mainmenu.png" alt="Alternative Text" width="300">
 
 
 ## 👥 Team Members
