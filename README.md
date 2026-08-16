@@ -133,6 +133,8 @@ run.bat
 
 <img src="items.png" alt="Alternative Text" width="300"> <img src="mainmenu.png" alt="Alternative Text" width="300">
 
+<img src="menuview.png" alt="Alternative Text" width="300"> <img src="admin menu.png" alt="Alternative Text" width="300"> 
+
 
 
 ## 👥 Team Members
