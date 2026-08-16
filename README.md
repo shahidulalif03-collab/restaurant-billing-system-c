@@ -130,6 +130,9 @@ run.bat
 ```
 ## 📂 Preview
 <img src="home page.png" alt="Alternative Text" width="500">
+<img src="invoice.png" alt="Alternative Text" width="500">
+<img src="items.png" alt="Alternative Text" width="500">
+<img src="mainmenu.png" alt="Alternative Text" width="500">
 
 
 ## 👥 Team Members
