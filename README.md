@@ -128,6 +128,7 @@ If the project is configured with the provided batch script, it can also be exec
 ```bash
 run.bat
 ```
+## 📂 Preview
 
 ## 👥 Team Members
 
