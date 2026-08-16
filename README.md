@@ -138,7 +138,7 @@ run.bat
 | Sohan Parves     | 252-35-462 |
 | Rahat Rahman Jim | 252-35-463 |
 | Raisul Islam     | 252-35-491 |
-| Alif Mollik      | 252-35-497 |
+| Shahidul Alif     | 252-35-497 |
 | Sazid Hasan      | 252-35-514 |
 
 ## 🎓 Academic Information
