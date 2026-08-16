@@ -129,7 +129,8 @@ If the project is configured with the provided batch script, it can also be exec
 run.bat
 ```
 ## 📂 Preview
-<img src="[images/your-image.png](https://github.com/shahidulalif03-collab/restaurant-billing-system-c/blob/4216062637b485d007fb23d5a25061dbc2d4715d/mainmenu.png)" alt="Alternative Text" width="500">
+<img src="home page.png" alt="Alternative Text" width="500">
+
 
 ## 👥 Team Members
 
